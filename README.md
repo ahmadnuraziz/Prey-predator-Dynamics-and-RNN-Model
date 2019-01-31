@@ -23,6 +23,8 @@ Differential equations and equations of parameters are written on image.
 
 ## Result
 
+# Result description are in progress
+
 ![graph 1](https://pbs.twimg.com/media/DyN3Yq_V4AAYFDN.jpg:large)
 ![graph 2](https://pbs.twimg.com/media/DyN36QhUwAAqwLk.jpg:large)
 ![graph 3](https://pbs.twimg.com/media/DyN4GuAVYAAOQJi.jpg:large)
