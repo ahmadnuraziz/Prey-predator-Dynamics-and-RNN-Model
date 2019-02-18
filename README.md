@@ -6,6 +6,7 @@ This project is about the dynamics of prey-predator system simulation with sever
 The species of this system are **A, X, Y, and Z**. Species A is autotrophs, Species X prey on species A, species Y prey on species X, and species Z prey on species Y. 
 
 ## Method
+### 1. Simulation
 The dynamics of this system will be simulated by the differential equation of numbers of species over time. There are four equations that describe each species.
 
 We will see the changing of numbers of species over time affected by their own predator and parameters.
@@ -21,12 +22,20 @@ I called the sum of all parameter to be the beta parameter.
 Differential equations and equations of parameters are written on image.
 ![mind map](https://pbs.twimg.com/media/DyN1S5JVYAA2Mf1.jpg:large)
 
+### 2. RNN Model
+Results of the simulation are used to train the model of Recurrent Neural Network (RNN) with Long-Short Term Memory (LSTM) layer. The model is built with four layers and each layer has 50 units. Then I use Adam optimizer for this model.
+
 ## Result
 
 # Result description are in progress
 
+### Results of Simulation
 ![graph 1](https://pbs.twimg.com/media/DyN3Yq_V4AAYFDN.jpg:large)
 ![graph 2](https://pbs.twimg.com/media/DyN36QhUwAAqwLk.jpg:large)
 ![graph 3](https://pbs.twimg.com/media/DyN4GuAVYAAOQJi.jpg:large)
 
 X species dynamics animation: https://twitter.com/i/status/1090848173696868352
+
+### Results of RNN Model
+![graph 4](https://pbs.twimg.com/media/DzqeRKiV4AE7R5r.jpg:large)
+![graph 5](https://pbs.twimg.com/media/DzqetVXU8AAF2zh.jpg:large)
