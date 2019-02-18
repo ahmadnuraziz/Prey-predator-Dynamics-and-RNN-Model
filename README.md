@@ -37,5 +37,5 @@ Results of the simulation are used to train the model of Recurrent Neural Networ
 X species dynamics animation: https://twitter.com/i/status/1090848173696868352
 
 ### Results of RNN Model
-![graph 4](https://pbs.twimg.com/media/DzqeRKiV4AE7R5r.jpg:large)
+![graph 4](https://pbs.twimg.com/media/DzqggWdVsAAbcLV.jpg:large)
 ![graph 5](https://pbs.twimg.com/media/DzqetVXU8AAF2zh.jpg:large)
